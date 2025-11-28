@@ -8,4 +8,4 @@ Docker CI/CD test ✅
 **Docker Hub:** hub.docker.com/r/digdigdigdig/client-website  
 **K8s Live:** localhost:3000  
 **Jenkins:** localhost:9292  
-
+**Docker Hub v2 trigger**
