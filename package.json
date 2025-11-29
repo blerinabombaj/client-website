@@ -1,8 +1,8 @@
 {
-  "name": "xxxxx-project-name", // emri i projektit,
+  "name": "xxxxx-project-name",
   "version": "1.0.0",
   "scripts": {
-    "start": "node xxxxx-entry.js",  // js file name,
+    "start": "node xxxxx-entry.js",  
     "build": "echo '✅ Build complete!'",
     "test": "echo '✅ No tests - OK'"
   },
