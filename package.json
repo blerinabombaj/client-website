@@ -1,12 +1,12 @@
 {
-  "name": "client-website",         
-  "version": "1.0.0",               
-  "scripts": {                       
-    "start": "node server.js",      
+  "name": "xxxxx-project-name", // emri i projektit,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node xxxxx-entry.js",  // js file name,
     "build": "echo '✅ Build complete!'",
     "test": "echo '✅ No tests - OK'"
   },
-  "dependencies": {                    
-    "express": "^4.18.0"              
+  "dependencies": {
+    "express": "^4.18.0"
   }
 }
